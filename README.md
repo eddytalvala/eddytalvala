@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Steven
+# 👋 Hi there, I’m Eddy Talvala
 
 ## I’m Senior Android Developer with 12 years experience.
 
