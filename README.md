@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Steven
 
-## I’m Snior iOS Developer with 12 years experience.
+## I’m Senior Android Developer with 12 years experience.
 
 ## 😻 I love:
 
