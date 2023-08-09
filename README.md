@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Steven
 
-## I’m currently working as iOS Software Engineer at [IntellectSoft](https://www.intellectsoft.net/)
+## I’m Snior iOS Developer with 12 years experience.
 
 ## 😻 I love:
 
@@ -11,13 +11,12 @@
 
 ## 📫 How to reach me: 
 
-  - davidrale311@gmail.com
+  - akira.jun90@gmail.com
   - Discord( ddr311#4416 )
 
 ## 🛠 Tools that I use:
 
-  - Xcode
-  - SourceTree
+  - Android Studio
   - Postman
   - Figma
   - Sketch
@@ -29,28 +28,20 @@
 
 ## 🧰 Languages and Frameworks that I work with:
 
-  - Swift
-  - Clean Swift/MVVM
-  - UIKit
-  - AVFoundation
-  - CoreLocation
+  - Java
   - Alamofire/Moya
-  - Realm/CoreData
-  - Apple Maps/Google Maps
+  - Google Map API
   - Firebase
   - Google Places
   - Facebook SDK
   - OneSignal
-  - Security
-  - LocalAuthentication
-  - StoreKit
 
 ## 🗂 This is the list of my projects:
 
 
-### [Scannur](https://apps.apple.com/us/app/scannur/id1560168842)
+### [MeetMindful](https://play.google.com/store/apps/details?id=com.meetmindful.app&hl=en_US&gl=US)
 
-#### Barcode & image scanner software that helps companies to keep track of their products
+#### A premier dating app for people who keep their lives mindful & high-vibe.
 
 ##### Position:
 
@@ -58,28 +49,19 @@
 
 ###### Key Featues:
 
-       - Barcode scanner;
-       - Custom camera picker with image recognition;
-       - Offline mode;
-       - Multiple customizable roles;
-       - Customizable item and list cards;
+       - Profile Management;
+       - Find pair with parameters;
+       - Chatting & Voice call;
        - In-App purchases;
 
 ###### Tech Stack:
 
-      - Swift
-      - Clean Swift architecture
-      - UIKit
-      - AVFoundation
-      - CoreLocation
-      - Alamofire
-      - Realm
+      - Java
+      - Geolocation
       - Firebase Analytics
-      - StoreKit
 
 
-
-### [Urbs](https://apps.apple.com/us/app/urbs-smart-city-guides/id1499710519)
+### [Urbs](https://play.google.com/store/apps/details?id=com.william.urbs&hl=en_US&gl=US)
 
 #### Travel guide app that allows users to explore different European cities
 
@@ -98,13 +80,9 @@
 
 ###### Tech Stack:
 
-      - Swift
-      - Clean Swift architecture
-      - UIKit
-      - AVFoundation
-      - CoreLocation
-      - Google Maps
-      - Alamofire
+      - Java
+      - GeoLocation
+      - Google Map API
       - Realm
       - Firebase
       - StoreKit
@@ -112,7 +90,7 @@
 
 
 
-### [Do Happy](https://apps.apple.com/us/app/do-happy-daily-happier-habits/id1540858137)
+### [DHappy](https://play.google.com/store/apps/details?id=com.pttdigital.dhappy&hl=en_US&gl=US)
 
 #### Daily self care habit tracker
 
@@ -131,15 +109,9 @@
        
 ###### Tech Stack:
 
-      - Swift
-      - MVC architecture
-      - UIKit
-      - AVFoundation
-      - Moya 
+      - Java
       - Realm
       - Google Maps
-      - Keychain
-      - SnapKit
       - NaturalLanguage
       - Firebase Analytics
       - Facebook Analytics
@@ -147,7 +119,7 @@
 
 
 
-### [Crumb](https://apps.apple.com/us/app/crumb-fitness-belohnungen/id1455844646?platform=iphone)
+### [Crumb](https://play.google.com/store/apps/details?id=com.crumbup.crumbkotlin&hl=en_US&gl=US)
 
 #### Fitness tracker app where you get rewards for being active
 
@@ -165,36 +137,9 @@
 
 ###### Tech Stack:
 
-      - Swift
-      - Viper architecture
-      - UIKit
-      - Alamofire
+      - Java
+      - OkHttp
       - Firebase 
       - Firebase Analytics
       - Health Kit
-
-
-### [RoomSnap](https://apps.apple.com/us/app/roomsnap/id1526278342)
-
-#### Real Estate photograpgher & editor
-
-##### Position:
-
-  - Team Lead
-
-###### Key Featues:
-
-       - Create your properties by taking pictures of them;
-       - Get access to professional photo editors;
-       - Receive professionaly eddited images;
-
-###### Tech Stack:
-
-      - Swift
-      - MVVM architecture
-      - UIKit
-      - AVFoundation
-      - Moya 
-      - Firebase Analytics
-      - Keychain
-      - Audio Toolbox
+      
